@@ -72,4 +72,5 @@ $table.bootstrapTable({
 });
 
 console.log("change");
+console.log("change");
 
